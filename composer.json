@@ -1,0 +1,11 @@
+{
+    "name": "tokutoku3/composer-sample",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "tokutoku3",
+            "email": "toku3.w@gmail.com"
+        }
+    ],
+    "require": {}
+}
